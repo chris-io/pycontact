@@ -1,8 +1,8 @@
 # pycontact
 
-contact manager writen in python for windows users
+contact manager written in python for windows users
 
-pycontact stores contacts in a directory called iobank that it creates in Documents
+pycontact stores contacts in a directory called 'iobank' that it creates in 'Documents'
 
 all data saved with pycontact is encoded using bicode functions and decoded using dicode functions
 
